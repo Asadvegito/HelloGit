@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         lv= (ListView)findViewById(R.id.list);
         send=(Button) findViewById(R.id.send);
         recieve=(Button)findViewById(R.id.rec);
-
+        Toast.makeText(this,"Git hub sync!",Toast.LENGTH_SHORT).show();
 
 
 
